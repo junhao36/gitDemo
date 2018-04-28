@@ -1,3 +1,3 @@
 Hello git world!
 Hello World!
-Git is a distributed version control system!
+Git is a version control system!
